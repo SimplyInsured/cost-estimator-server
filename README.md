@@ -4,7 +4,7 @@ Usage:
 
 ```
 yarn
-yarn start -p 4000
+yarn start
 curl http://localhost:4000/procedures?name_like=^ca.*
 ```
 
